@@ -7,3 +7,4 @@
 | LEC 5&6 | Keypad & LCD drivers |
 | LEC 7   | External Interrupt driver |
 | LEC 8   | EEPROM driver |
+| LEC 9   | ADC driver |
