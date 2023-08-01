@@ -8,3 +8,4 @@
 | LEC 7   | External Interrupt driver |
 | LEC 8   | EEPROM driver |
 | LEC 9   | ADC driver |
+| LEC 10  | Timer0 driver |
