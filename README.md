@@ -9,3 +9,4 @@
 | LEC 8   | EEPROM driver |
 | LEC 9   | ADC driver |
 | LEC 10  | Timer0 driver |
+| LEC 11 & 12 | Timers & CCP drivers |
